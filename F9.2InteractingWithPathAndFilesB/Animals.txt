@@ -1,0 +1,9 @@
+Anteater
+Bobcat
+Cat
+Dog
+Fox
+Gopher
+Hippo
+Lemur
+Monkey

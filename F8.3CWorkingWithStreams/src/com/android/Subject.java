@@ -1,0 +1,10 @@
+package com.android;
+
+import java.io.Serializable;
+
+public enum Subject implements Serializable{
+	ENGLISH,IRISH,MATHS,HISTORY,GEOGRAPHY,PHYSICS,BIOLOGY,CHEMISTRY,
+	TECHNOLOGY,FRENCH,GERMAN,ART,WOODWORK,TECH_GRAPHICS,HOME_ECONOMICS,
+	POLITICS,RELIGION,PE
+
+}
